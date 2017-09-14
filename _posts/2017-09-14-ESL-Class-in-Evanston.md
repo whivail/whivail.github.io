@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ESL class in Evanston"
+permalink: ESLclassinEvanston.html
 date:   2017-09-14 
 ---
 
