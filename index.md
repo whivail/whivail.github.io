@@ -11,7 +11,8 @@ I'm not quite sure how long I can last for writing the blog but I'll try!
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ ESL class in Evanston }}</a>
+      <a href="ESLclassinEvanston.html"> ESL class in Evanston</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
