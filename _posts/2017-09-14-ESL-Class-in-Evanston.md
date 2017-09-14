@@ -4,6 +4,7 @@ permalink: ESLclassinEvanston.html
 date:   2017-09-14 
 ---
 
+#ESL class in Evanston
 在來美國之前，就一直上網找ESL(**E**nglish as a **S**econd **L**anguage)的課，找了附近的語言學校，看到那個金額真是嚇死寶寶了...😱
 難怪有人說如果要來留學，英文考試最好要考過，不然要再花一筆錢念語言學校。  
 
