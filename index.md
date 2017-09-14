@@ -13,7 +13,8 @@ I'm not quite sure how long I can last for writing the blog but I'll try!
   {% for post in site.posts %}
     <li>
       <a href="ESLclassinEvanston.html"> ESL class in Evanston</a>
-      {{ post.excerpt }} <a href="ESLclassinEvanston.html"> Read more...</a>
+      {{ post.excerpt }} .  
+      ###<a href="ESLclassinEvanston.html"> Read more>>></a>
     </li>
   {% endfor %}
 </ul>
