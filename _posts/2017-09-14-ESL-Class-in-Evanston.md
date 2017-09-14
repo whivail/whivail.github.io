@@ -1,17 +1,18 @@
 ---
 layout: post
-permalink: "ESL-Class-in-Evanston.html"
-date: Sep 14, 2017
-title: ESL Class in Evanston
+title:  "ESL class in Evanston"
+date:   2017-09-14 
 ---
 
-在來美國之前，就一直上網找ESL(English as a Second Language)的課，找了附近的語言學校，看到那個金額真是嚇死寶寶了...😱
+在來美國之前，就一直上網找ESL(**E**nglish as a **S**econd **L**anguage)的課，找了附近的語言學校，看到那個金額真是嚇死寶寶了...😱
 難怪有人說如果要來留學，英文考試最好要考過，不然要再花一筆錢念語言學校。  
 
 離Evanston最近的是[Oakton Community College](https://www.oakton.edu/index.php), 一所社區大學，這種跟台灣的社區大學很像，學費低廉，電腦課、語言課、運動健身、烹飪等等都有，
 也有學分的課，但因為一開始只在這邊待三個月，所以只專注在沒有學分的課程。 網路上搜尋了一下這間社區大學，很可惜的並沒有太多的資訊，
 一直很怕這邊教學不好白白浪費錢。七月底的時候寫信詢問秋季班的low tuition cost ESL課程，對方表示這課會在幾月幾號開始，
 然後又跟我提了還有一些free ESL可以上，其實對方人蠻好的，一般社大不都為了賺錢會建議你上要錢的課嗎？XD  
+
+[Low tuition cost ESL]!({{site.url}}:assets/screenshot1)
 
 [Oakton Community College](https://www.oakton.edu/index.php)的網頁上，找到continuing education, 
 就有ESL的選項，免費班、白天班、晚上班、低學費班等等。一開始我打算上低學費班Intensive ESL，原因是他一週上課4天，連續10周，
